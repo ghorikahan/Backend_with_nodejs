@@ -29,11 +29,11 @@ GET	/students/branch/:branchName	Returns students from specific branch
 
 Assuming server runs on port 3000:
 
-http://localhost:3000/students/topper
-http://localhost:3000/students/average
-http://localhost:3000/students/count
-http://localhost:3000/students/3
-http://localhost:3000/students/branch/CSE
+http://localhost:3000/students/topper <br>
+http://localhost:3000/students/average <br>
+http://localhost:3000/students/count <br>
+http://localhost:3000/students/3  <br>
+http://localhost:3000/students/branch/CSE <br>
 
 
 🛠 Steps to Run Locally
